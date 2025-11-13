@@ -1,5 +1,5 @@
 [book]
-authors = ["Timo Betcke"]
+authors = ["Timo Betcke", "Matthew Scroggs", "ADD NAMES HERE"]
 language = "en"
 src = "src"
-title = "Modern Programming Models for Scientific Computing"
+title = "TITLE OF YOUR TRAINING WEEK"
