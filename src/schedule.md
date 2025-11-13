@@ -4,34 +4,30 @@ Each day consists of a morning session from 10am to 12:30 and an afternoon sessi
 
 ## Monday
 - Morning Session
-  - Setting up your software environment
-  - Fundamentals of HPC: hardware, programming languages, parallelisation, performance models.
+  - List topics and activities here
 - Afternoon Session
-  - Discussion of expectations for the week
-  - Preparation time for Tuesday presentations
+  - List topics and activities here
 
 ## Tuesday
 - Morning Session
-  - Talks on HPC programming languages and environments
+  - List topics and activities here
 - Afternoon Session
-  - CDT Group session on living safely in London
-  - ARC social hour
+  - List topics and activities here
 
 ## Wednesday
 - Morning Session
-  - Introduction to dense and sparse linear algebra software
+  - List topics and activities here
 - Afternoon Session
-  - Preparation time for Thursday presentations
+  - List topics and activities here
 
 ## Thursday
 - Morning Session
-  - Presentations on mathematical software libraries
+  - List topics and activities here
 - Afternoon session
-  - Hackathon on mathematical software
+  - List topics and activities here
 
 ## Friday
 - Morning Session
-  - Talk on [FEniCS](https://fenicsproject.org/), a major open-source computational simulation platform.
-    (Speaker: Dr Chris Richardson, University of Cambridge)
+  - List topics and activities here
 - Afternoon Session
-  - Summary and discussion of potential follow-up projects
+  - List topics and activities here

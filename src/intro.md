@@ -1,13 +1,9 @@
 # Introduction
 
-In this training workshop  you will explore programming models for scientific computing. Topics include
+In this training workshop you will learn things. These will include:
 
-- Fundamentals of Scientific Computing
-- Programming languages for HPC
-- Multithreading and multiprocessing
-- GPU programming models
-- Widely used HPC libraries
+- Something
+- Something else
+- A third thing
 
 The training will consist of guided sessions, student presentations, and programming exercises.
-
-
