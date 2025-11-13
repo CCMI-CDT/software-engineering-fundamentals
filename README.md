@@ -1,4 +1,4 @@
-# Sofrware engineering fundamentals
+# Software engineering fundamentals
 
 Material for the second training week: software engineering fundamentals.
 
