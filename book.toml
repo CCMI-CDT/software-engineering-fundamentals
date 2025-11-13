@@ -1,5 +1,5 @@
 [book]
-title = "TITLE OF YOUR TRAINING WEEK"
-authors = ["Timo Betcke", "Matthew Scroggs", "ADD NAMES HERE"]
+title = "Software Engineering Fundamentals"
+authors = ["Timo Betcke", "Matthew Scroggs", "Sam Cunliffe", "David Pérez-Suárez", "Monika Byrne Svata", "Paddy Roddy", "Patrick Roddy", "Stephen Thompson", "William Graham"]
 language = "en"
 src = "src"
