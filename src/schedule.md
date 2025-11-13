@@ -4,30 +4,30 @@ Each day consists of a morning session from 10am to 12:30 and an afternoon sessi
 
 ## Monday
 - Morning Session
-  - List topics and activities here
+  - Version control, collaboration and licenses
 - Afternoon Session
-  - List topics and activities here
+  - More version control, collaboration and licenses
 
 ## Tuesday
-- Morning Session
-  - List topics and activities here
+- Morning session
+  - Student presentations on languages, tooling and best practice
 - Afternoon Session
-  - List topics and activities here
+  - ARC collaboration hour and social hour
 
 ## Wednesday
 - Morning Session
-  - List topics and activities here
+  - Testing and continuous integration
 - Afternoon Session
-  - List topics and activities here
+  - Good-first-issue open source hackathon
 
 ## Thursday
 - Morning Session
-  - List topics and activities here
+  - Pair programming activity
 - Afternoon session
-  - List topics and activities here
+  - Adding tests to code
 
 ## Friday
 - Morning Session
-  - List topics and activities here
+  - Project management tools and the agile philosophy
 - Afternoon Session
-  - List topics and activities here
+  - Project planning, discussion and evaluation
