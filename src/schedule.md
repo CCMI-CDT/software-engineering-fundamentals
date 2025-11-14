@@ -22,12 +22,12 @@ Each day consists of a morning session from 10am to 12:30 and an afternoon sessi
 
 ## Thursday
 - Morning Session
-  - Pair programming activity
+  - Project management tools and agile ways of working
 - Afternoon session
-  - Adding tests to code
+  - Pair programming activity
 
 ## Friday
 - Morning Session
-  - Project management tools and the agile philosophy
+  - Further pair programming with tests
 - Afternoon Session
   - Project planning, discussion and evaluation
