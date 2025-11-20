@@ -22,9 +22,9 @@ Each day consists of a morning session from 10am to 12:30 and an afternoon sessi
 
 ## Thursday
 - Morning Session
-  - Project management tools and agile ways of working
-- Afternoon session
   - Project planning and discussion
+- Afternoon session
+  - Project management tools and agile ways of working
 
 ## Friday
 - Morning Session
